@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-03T15:27:15 MDT" name="Default suite" finished-at="2020-05-03T15:27:16 MDT" duration-ms="765">
+    <groups>
+    </groups>
+    <test started-at="2020-05-03T15:27:15 MDT" name="Default test" finished-at="2020-05-03T15:27:16 MDT" duration-ms="765">
+      <class name="utils.ExcelUtils">
+        <test-method signature="getRowCount()[pri:0, instance:utils.ExcelUtils@1a84f40f]" started-at="2020-05-03T15:27:15 MDT" name="getRowCount" finished-at="2020-05-03T15:27:16 MDT" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRowCount -->
+      </class> <!-- utils.ExcelUtils -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
